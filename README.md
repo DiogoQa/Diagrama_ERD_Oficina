@@ -75,7 +75,7 @@ O esquema conceitual inclui as seguintes entidades e relacionamentos:
 - **Peça** N:N **Ordem de Serviço (OS)**
 
 ## Diagrama de Entidade-Relacionamento (ERD)
-![Diagrama ERD](Oficina)
+![Diagrama ERD](Oficina.png)
 
 ## Como Usar
 1. **Setup do Banco de Dados**: Crie o banco de dados e as tabelas conforme o esquema conceitual descrito.
